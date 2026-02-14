@@ -20,22 +20,7 @@ Profissional técnico com 10+ anos em eletrônica, atualmente em **transição d
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MARIOJHOW&show_icons=true&theme=radical)
-```
 
-**Isso vai criar um perfil MUITO profissional!** 🌟
-
----
-
-## 🎯 GITHUB ESTÁ PRONTO! Agora: LINKEDIN
-
-O GitHub está completo! Agora vamos para a parte que vai gerar VISUALIZAÇÕES e CONTATOS: **LinkedIn!**
-
-### **📱 ATUALIZAR LINKEDIN - Checklist**
-
-#### **1. Atualizar Resumo/Sobre**
-
-Na seção "Sobre", clique em editar e use:
-```
 Profissional técnico com 10+ anos de experiência em eletrônica, atualmente em transição para Análise de Dados e Cloud Computing.
 
 ✅ Certificado Google Data Analytics Professional
@@ -57,58 +42,7 @@ Profissional técnico com 10+ anos de experiência em eletrônica, atualmente em
 🎯 Buscando oportunidade como Analista de Dados Júnior ou Administrador de Banco de Dados.
 
 🔗 GitHub: github.com/MARIOJHOW
-```
 
----
-
-#### **2. Adicionar os 3 Projetos na Seção "Projetos"**
-
-**Projeto 1:**
-- Nome: Análise de Dados de Manutenção Eletrônica
-- Link: `https://github.com/MARIOJHOW/analise-manutencao-eletronica`
-- Descrição: Análise de 500 chamados identificando padrões e propondo economia de R$ 9.8k
-- Anexar: `analise_manutencao_dashboard.png`
-
-**Projeto 2:**
-- Nome: Automação de Relatórios com Python
-- Link: `https://github.com/MARIOJHOW/automacao-relatorios-python`
-- Descrição: Sistema que reduz tempo de relatórios de 4h para 15min (93.75% de economia)
-
-**Projeto 3:**
-- Nome: Análise Bike-Share (Google Data Analytics Capstone)
-- Link: `https://github.com/MARIOJHOW/bikeshare-analysis-capstone`
-- Descrição: Análise de 100 mil viagens com 5 estratégias de conversão propostas
-- Anexar: `bike_share_analysis.png`
-
----
-
-#### **3. Atualizar Skills**
-
-Adicione estas habilidades (peça endosso depois):
-- Python
-- Pandas
-- SQL
-- Data Analysis
-- Power BI
-- Excel
-- ETL
-- Data Visualization
-
----
-
-#### **4. Adicionar GitHub no Perfil**
-
-Na seção "Informações de contato":
-- Website: `https://github.com/MARIOJHOW`
-
----
-
-## 🎊 DEPOIS DISSO: CRIAR POSTS!
-
-Nos próximos dias, crie 3 posts (1 por dia):
-
-**POST 1 (Amanhã):**
-```
 🎉 Acabei de completar meu primeiro projeto de análise de dados!
 
 Analisei 500 chamados de manutenção usando Python e Pandas, identificando:
